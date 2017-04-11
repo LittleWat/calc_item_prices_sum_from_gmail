@@ -1,0 +1,3 @@
+[submodule "gmail"]
+	path = gmail
+	url = https://github.com/charlierguo/gmail.git
